@@ -1,6 +1,6 @@
-# Spring Framework 게시판 프로젝트
+# Spring Framework 공부
 
-강의를 통해 Spring Framework에 대한 개념을 습득 및 게시판을 제작한 토이 프로젝트 입니다.
+Spring Framework 강의를 통해 게시판을 제작해보며 Spring Framework에 대한 지식을 습득하였습니다.
 
 ## 사용 기술
 
